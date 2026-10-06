@@ -1,0 +1,32 @@
+[
+  {
+    "id": "usr-shreyash-01",
+    "name": "Shreyash Gautam",
+    "email": "shreyashgautam2007@gmail.com",
+    "password": "Wishyoubest_10",
+    "role": "Lead Researcher",
+    "affiliation": "Academic Research Laboratory",
+    "research_interests": [
+      "Retrieval-Augmented Generation",
+      "LLMs",
+      "Vector Search",
+      "Knowledge Systems"
+    ],
+    "created_at": "2024-10-06T00:00:00.000Z"
+  },
+  {
+    "id": "usr-researcher-01",
+    "name": "Dr. Elena Rostova",
+    "email": "e.rostova@scirag.io",
+    "password": "password123",
+    "role": "Principal Investigator",
+    "affiliation": "Center for Neural Information Systems",
+    "research_interests": [
+      "Retrieval-Augmented Generation",
+      "Vector Indices",
+      "Hallucination Mitigation",
+      "Knowledge Graphs"
+    ],
+    "created_at": "2024-10-01T00:00:00.000Z"
+  }
+]

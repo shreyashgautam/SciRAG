@@ -1,0 +1,156 @@
+[
+  {
+    "id": "paper-1791298664074",
+    "owner_id": "usr-researcher-01",
+    "title": "Contrastive Vector Distillation for Scientific RAG",
+    "authors": [
+      {
+        "name": "Researcher (Current User)",
+        "affiliation": "SciRAG Research Lab"
+      }
+    ],
+    "year": 2026,
+    "venue": "Uploaded Manuscript",
+    "source": "pdf",
+    "doi": null,
+    "arxivId": null,
+    "abstract": "Methods for compressing 1024-D embeddings into lightweight index vectors.",
+    "tags": [
+      "Uploaded Paper",
+      "Custom Ingestion",
+      "Local Corpus"
+    ],
+    "status": "ready",
+    "lastOpened": "Just now",
+    "fileSize": "2.8 MB",
+    "pageCount": 10,
+    "citationCount": 0,
+    "chunkCount": 24,
+    "targetChunkTokens": "300–500 tokens",
+    "collections": [
+      "literature-review"
+    ],
+    "isFavorite": true,
+    "sections": [
+      {
+        "id": "sec-abstract",
+        "title": "Abstract",
+        "page": 1,
+        "content": "Methods for compressing 1024-D embeddings into lightweight index vectors."
+      },
+      {
+        "id": "sec-intro",
+        "title": "1. Introduction",
+        "page": 1,
+        "content": "Introduction and context of the ingested paper."
+      },
+      {
+        "id": "sec-method",
+        "title": "2. Methodology",
+        "page": 3,
+        "content": "Experimental setup and empirical methodology."
+      },
+      {
+        "id": "sec-results",
+        "title": "3. Results & Evaluation",
+        "page": 5,
+        "content": "Reported findings and evaluations."
+      },
+      {
+        "id": "sec-conclusion",
+        "title": "4. Conclusion",
+        "page": 7,
+        "content": "Summary of contributions."
+      }
+    ],
+    "summary": {
+      "tldr": "Uploaded scientific paper parsed into semantic chunks and indexed into SciRAG.",
+      "researchProblem": "Under investigation in researcher workspace.",
+      "keyContribution": "Added to SciRAG literature vector database.",
+      "methodology": "SciRAG Document Ingestion & Chunking Pipeline.",
+      "dataset": "User empirical corpus.",
+      "results": "Ready for cross-paper comparison and evidence-grounded queries.",
+      "limitations": "Preliminary unreviewed document.",
+      "futureWork": "Synthesize across current research scope."
+    },
+    "created_at": "2026-10-06T14:57:44.074Z",
+    "updated_at": "2026-10-06T14:57:44.074Z"
+  },
+  {
+    "id": "paper-1791298266201",
+    "owner_id": "usr-researcher-01",
+    "title": "Neural Information Retrieval in Medical Diagnosis",
+    "authors": [
+      {
+        "name": "Researcher (Current User)",
+        "affiliation": "SciRAG Research Lab"
+      }
+    ],
+    "year": 2026,
+    "venue": "Uploaded Manuscript",
+    "source": "pdf",
+    "doi": null,
+    "arxivId": null,
+    "abstract": "A deep analysis of transformer embeddings in clinical text.",
+    "tags": [
+      "Uploaded Paper",
+      "Custom Ingestion",
+      "Local Corpus"
+    ],
+    "status": "ready",
+    "lastOpened": "Just now",
+    "fileSize": "3.2 MB",
+    "pageCount": 10,
+    "citationCount": 0,
+    "chunkCount": 24,
+    "targetChunkTokens": "300–500 tokens",
+    "collections": [
+      "literature-review"
+    ],
+    "isFavorite": true,
+    "sections": [
+      {
+        "id": "sec-abstract",
+        "title": "Abstract",
+        "page": 1,
+        "content": "A deep analysis of transformer embeddings in clinical text."
+      },
+      {
+        "id": "sec-intro",
+        "title": "1. Introduction",
+        "page": 1,
+        "content": "Introduction and context of the ingested paper."
+      },
+      {
+        "id": "sec-method",
+        "title": "2. Methodology",
+        "page": 3,
+        "content": "Experimental setup and empirical methodology."
+      },
+      {
+        "id": "sec-results",
+        "title": "3. Results & Evaluation",
+        "page": 5,
+        "content": "Reported findings and evaluations."
+      },
+      {
+        "id": "sec-conclusion",
+        "title": "4. Conclusion",
+        "page": 7,
+        "content": "Summary of contributions."
+      }
+    ],
+    "summary": {
+      "tldr": "Uploaded scientific paper parsed into semantic chunks and indexed into SciRAG.",
+      "researchProblem": "Under investigation in researcher workspace.",
+      "keyContribution": "Added to SciRAG literature vector database.",
+      "methodology": "SciRAG Document Ingestion & Chunking Pipeline.",
+      "dataset": "User empirical corpus.",
+      "results": "Ready for cross-paper comparison and evidence-grounded queries.",
+      "limitations": "Preliminary unreviewed document.",
+      "futureWork": "Synthesize across current research scope."
+    },
+    "created_at": "2026-10-06T14:51:06.202Z",
+    "updated_at": "2026-10-06T14:51:06.202Z"
+  }
+]

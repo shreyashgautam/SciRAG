@@ -1,0 +1,6 @@
+{
+  "name": "SciRAG — Intelligent Scientific Research Assistant",
+  "description": "An Intelligent Research Assistant for Scientific Literature Using Retrieval-Augmented Generation. Retrieval • Generation • Citation-Grounded Answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
